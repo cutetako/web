@@ -1,9 +1,12 @@
+<?php
+header("Content-Type:text/html; charset=utf-8");
+?>
 <!DOCTYPE HTML>
 
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Laboratory Website</title>
+	<title>Law Firm</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
@@ -41,7 +44,7 @@
 					</p>
 					
 				</div>
-				<h1>Laboratory Website</h1>
+				<h1>Laboratory Web site</h1>
 				<p>
 					Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content 
 					Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content Content
@@ -60,7 +63,7 @@
 					<p>
 						<b>4C 教改計畫</b> 4C教改計畫內容簡介4C教改計畫內容簡介4C教改計畫內容簡介4C教改計畫內容簡介4C教改計畫內容簡介4C教改計畫內容簡介
 					</p>
-					<a href="c4_project.php" class="more">Read More</a>
+					<a href="c4_project.html" class="more">Read More</a>
 				</li>
 				<li>
 					<div class="frame1">
